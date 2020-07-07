@@ -486,7 +486,7 @@ class CameraXLivePreviewActivity :
         private const val TAG = "CameraXLivePreview"
         private const val PERMISSION_REQUESTS = 1
         private const val OBJECT_DETECTION = "Object Detection"
-        private const val OBJECT_DETECTION_CUSTOM = "Custom Object Detection (Bird)"
+        private const val OBJECT_DETECTION_CUSTOM = "Leaf Disease Detection"
         private const val FACE_DETECTION = "Face Detection"
         private const val TEXT_RECOGNITION = "Text Recognition"
         private const val BARCODE_SCANNING = "Barcode Scanning"
